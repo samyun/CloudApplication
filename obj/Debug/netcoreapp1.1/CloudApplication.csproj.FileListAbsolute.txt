@@ -1,0 +1,8 @@
+/Users/samyun/OneDrive/Documents/MIS 3610/CloudApplication/bin/Debug/netcoreapp1.1/CloudApplication.deps.json
+/Users/samyun/OneDrive/Documents/MIS 3610/CloudApplication/bin/Debug/netcoreapp1.1/CloudApplication.runtimeconfig.json
+/Users/samyun/OneDrive/Documents/MIS 3610/CloudApplication/bin/Debug/netcoreapp1.1/CloudApplication.runtimeconfig.dev.json
+/Users/samyun/OneDrive/Documents/MIS 3610/CloudApplication/bin/Debug/netcoreapp1.1/CloudApplication.dll
+/Users/samyun/OneDrive/Documents/MIS 3610/CloudApplication/bin/Debug/netcoreapp1.1/CloudApplication.pdb
+/Users/samyun/OneDrive/Documents/MIS 3610/CloudApplication/obj/Debug/netcoreapp1.1/CloudApplication.AssemblyInfo.cs
+/Users/samyun/OneDrive/Documents/MIS 3610/CloudApplication/obj/Debug/netcoreapp1.1/CloudApplication.dll
+/Users/samyun/OneDrive/Documents/MIS 3610/CloudApplication/obj/Debug/netcoreapp1.1/CloudApplication.pdb
